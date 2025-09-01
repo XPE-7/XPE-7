@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XPE-7
 - 👀 I’m interested in exploring
-- 🌱 I’m currently learning web3 and cloud
+- 🌱 I’m currently learning Agentic Ai, Cloud and also in web3 tech
 - 💞️ I’m looking to collaborate on ml projects
 - 📫 reach me @richangchaudhary@gmail.com
 - ⚡ Fun fact: human
