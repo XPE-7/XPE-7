@@ -1,8 +1,8 @@
-<!-- Added Banner -->
+<!-- Added Banner
 <p align="center">
   <img src="./banner.svg" alt="Richang Chaudhary Banner" width="100%" />
 </p>
-<h1 align="center">Hi 👋, I'm Richang Chaudhary (XPE-7)</h1>
+<h1 align="center">Hi 👋, I'm Richang Chaudhary (XPE-7)</h1> -->
 <!-- Added Dynamic Typing Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=900&lines=AI+Engineer+in+Progress;Agentic+AI+%7C+LLMs+%7C+Cloud+%7C+ML;Building+Autonomous+AI+Agents;Open+to+Collaborate" alt="typing" />
