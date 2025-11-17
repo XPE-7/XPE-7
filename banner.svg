@@ -1,0 +1,47 @@
+<!-- save as banner.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="300" viewBox="0 0 1400 300">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#0f1724"/>
+      <stop offset="1" stop-color="#0b1220"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0" stop-color="#7c3aed"/>
+      <stop offset="1" stop-color="#06b6d4"/>
+    </linearGradient>
+    <filter id="blur">
+      <feGaussianBlur stdDeviation="30" />
+    </filter>
+  </defs>
+
+  <rect width="100%" height="100%" fill="url(#g)"/>
+  <!-- soft accent circle -->
+  <circle cx="1150" cy="70" r="90" fill="url(#accent)" opacity="0.12" filter="url(#blur)"/>
+  <circle cx="1100" cy="220" r="45" fill="#0ea5a0" opacity="0.06"/>
+  <!-- left text -->
+  <g transform="translate(60,60)">
+    <text x="0" y="0" font-family="Helvetica, Arial, sans-serif" font-size="36" fill="#e6eef8">Hi, I’m</text>
+    <text x="0" y="52" font-family="Inter, Helvetica, Arial, sans-serif" font-weight="700" font-size="54" fill="#ffffff">Richang Chaudhary</text>
+    <rect x="0" y="72" width="420" height="4" fill="#1f2937" rx="2" />
+    <text x="0" y="120" font-family="Inter, Helvetica, Arial, sans-serif" font-size="18" fill="#cbd5e1">Agentic AI · LLMs · Cloud · ML · Automation</text>
+  </g>
+
+  <!-- laptop illustration (simple) -->
+  <g transform="translate(860,60)">
+    <rect x="60" y="40" rx="10" ry="10" width="340" height="160" fill="#0b1220" stroke="#19232b" />
+    <rect x="120" y="90" width="220" height="80" rx="6" fill="#071019"/>
+    <path d="M80 200 q140 30 280 0" stroke="#111827" stroke-width="4" fill="none" />
+  </g>
+
+  <!-- subtle floating shapes -->
+  <g fill="#ffffff" opacity="0.03">
+    <ellipse cx="300" cy="200" rx="260" ry="40"/>
+    <ellipse cx="900" cy="45" rx="150" ry="18"/>
+  </g>
+
+  <!-- small accent badge -->
+  <g transform="translate(50,230)">
+    <rect x="0" y="0" rx="8" ry="8" fill="url(#accent)" width="240" height="40"/>
+    <text x="12" y="26" font-family="Inter, Helvetica, Arial" font-size="14" fill="#081018">Building intelligent, reliable AI systems</text>
+  </g>
+</svg>
