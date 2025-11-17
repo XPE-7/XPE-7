@@ -1,5 +1,13 @@
+<!-- Added Banner -->
+<p align="center">
+  <img src="./banner.svg" alt="Richang Chaudhary Banner" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Richang Chaudhary (XPE-7)</h1>
-<h3 align="center">AI Engineer in the making | Agentic AI • LLMs • Cloud • ML</h3>
+<!-- Added Dynamic Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=900&lines=AI+Engineer+in+Progress;Agentic+AI+%7C+LLMs+%7C+Cloud+%7C+ML;Building+Autonomous+AI+Agents;Open+to+Collaborate" alt="typing" />
+</p>
+
 
 <p align="center">
   <a href="Richang-Chaudhary-Resume.pdf" download>
@@ -61,7 +69,7 @@ Achieved:
 
 ## 🔥 GitHub Streak  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XPE-7&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=XPE-7&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -73,3 +81,4 @@ Achieved:
 ---
 
 <p align="center">✨ Exploring AI, building intelligent systems, and solving real-world problems ✨</p>
+
