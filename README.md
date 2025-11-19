@@ -67,7 +67,7 @@ Achieved:
 
 ---
 
-## 🔥 GitHub Streak  
+## 🔥 Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=XPE-7&theme=tokyonight&hide_border=true" />
 </p>
