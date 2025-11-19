@@ -59,7 +59,7 @@ Achieved:
 
 
 
-## 📊 GitHub Stats  
+## 📊 GitHub
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=XPE-7&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XPE-7&layout=compact&theme=tokyonight" />
@@ -74,7 +74,6 @@ Achieved:
 
 ---
 
-## 📫 Contact  
 - 📧 Email: **richangchaudhary@gmail.com**  
 - 💼 LinkedIn: **linkedin.com/in/richang-chaudhary**  
 
